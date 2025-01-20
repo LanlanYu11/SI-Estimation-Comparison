@@ -7,7 +7,7 @@ A Systematic Comparison of Methodologies for the Estimation of the Serial Interv
 ###### ref: 
 Vink, M. A., Bootsma, M. C. J., & Wallinga, J. (2014). Serial intervals of respiratory infectious diseases: a systematic review and analysis. American journal of epidemiology, 180(9), 865-875.
 ###### code:
-http://aje.oxfordjournals.org/
+[Supplementary Data](https://academic.oup.com/aje/article/180/9/865/2739204?login=true#supplementary-data)
 
 ### A new method for the joint estimation of instantaneous reproductive number and serial interval during epidemics
 ###### ref: 
