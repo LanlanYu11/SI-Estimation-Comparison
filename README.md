@@ -16,6 +16,7 @@ Dai, C., Zhou, D., Gao, B., & Wang, K. (2023). A new method for the joint estima
 https://doi.org/10.1371/journal.pcbi.1011021.s010
 
 ### No-pior-assumption Method (Multiple Imputation reference approach)
-In Reconstruction method
+In Reconstruction/MI
 
 ### Maximum Likelihood approach
+In Reconstruction/ML
